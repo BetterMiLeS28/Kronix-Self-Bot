@@ -31,7 +31,7 @@ Kronix v1 is an educational selfbot crafted to improve your learning journey on 
    npm install
    ```
 4. **Make sure to fill config.json**  
-   ```json
+```
 {
   "token": "YOUR_TOKEN",
   "prefix": "YOUR_PREFIX",
@@ -56,8 +56,8 @@ Kronix v1 is an educational selfbot crafted to improve your learning journey on 
     "client_secret": "YOUR_SPOTIFY_CLIENT_SECRET"
   }
 }
+```
 
-   ```
 
 5. **Start the Selfbot**  
    ```bash
