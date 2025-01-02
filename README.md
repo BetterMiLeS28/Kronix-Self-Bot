@@ -1,6 +1,6 @@
 # 📚 Kronix v1  
 
-Kronix v1 is an educational selfbot designed to enhance your learning experience on Discord. It allows you to store and access important information, track progress, and utilize various educational tools, all while operating within the Discord ecosystem.  
+Kronix v1 is an educational selfbot crafted to improve your learning journey on Discord. It enables you to store and retrieve essential information, monitor progress, and leverage various educational features, all seamlessly integrated into the Discord platform.
 
 ---
 ## 💡 Need a Custom Discord Bot?  
@@ -33,6 +33,10 @@ Kronix v1 is an educational selfbot designed to enhance your learning experience
 
 4. **Start the Selfbot**  
    ```bash
+   node .
+   ```
+   or
+   ```bash
    node index.js
    ```
 
@@ -40,18 +44,23 @@ Kronix v1 is an educational selfbot designed to enhance your learning experience
 
 ## 💡 Customization  
 
-This bot allows you to fully customize your profile and educational features. Use the following commands:  
-- `!personality set <profile_number>`: Switch between saved educational profiles.
-- `!notes add <subject> <note>`: Add a new study note under a specific subject.
-- `!flashcard create <term> <definition>`: Create a new flashcard.
+This bot allows you to customize various features with a variety of useful and dangerous commands. Some of the available commands include:
+- `!activity`: Set your activity status.
+- `!create_channel`: Create a new channel.
+- `!afk`: Set your AFK status.
+- `!define`: Look up word definitions.
+- `!note`: Add personal notes.
+- `!nukechannel`: Nuke a channel.
+- `!ping`: Check the bot's response time.
+
+### ⚠️ Use attack commands responsibly
+There are several attack-related commands available, such as `!dmall`, `!nuke`, and `!spamall`. Use them with caution and only in appropriate situations.
 
 ---
 
-## 📝 A Note from the Developer  
+## ⚠️ Important Notice
+**Use of selfbots is against Discord's Terms of Service.** By using this bot, you acknowledge that you are responsible for any consequences that may occur, including account bans or suspensions. We are not responsible for any actions taken by Discord related to the use of this selfbot. Use at your own risk.
 
-Kronix v1 is meant for educational purposes, designed to help you manage your learning within Discord. It allows for personalized profiles and interactive learning features that can be tailored to any subject.  
-
-Feel free to modify or extend the functionality as you see fit!  
-
+Enjoy customizing your bot experience with Kronix v1 and make the most out of its powerful features!
 
 ---
