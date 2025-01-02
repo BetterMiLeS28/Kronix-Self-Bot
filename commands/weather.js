@@ -12,7 +12,8 @@ module.exports = {
         const cityName = args.join(' ');
         const geoApiUrl = `https://api.api-ninjas.com/v1/geocoding?city=${encodeURIComponent(cityName)}`;
         const weatherApiUrl = `https://api.api-ninjas.com/v1/weather`;
-        const apiKey = config.api_ninjas_key;
+       const apiKey = `${config.api_ninjas_key}`
+
 
         try {
             const geoResponse = await axios.get(geoApiUrl, {
