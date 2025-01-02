@@ -1,0 +1,24 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "YOUR_PREFIX",
+  "allowedIds": ["YOUR_DISCORD_ID"],
+  "timeZone": "Asia/Kolkata",
+  "showTime": true,
+  "attackMode": false,
+  "afkMode": false,
+  "afkReason": "",
+  "afkStartTime": null,
+  "pings": [],
+  "tly_api_token": "YOUR_TLY_API_TOKEN",
+  "gemini_api_key": "YOUR_GEMINI_API_KEY",
+  "api_ninjas_key": "YOUR_API_NINJAS_KEY",
+  "github_token": "YOUR_GITHUB_TOKEN",
+  "stand4": {
+    "token": "YOUR_STAND4_TOKEN",
+    "uid": "YOUR_UID"
+  },
+  "spotify": {
+    "client_id": "YOUR_SPOTIFY_CLIENT_ID",
+    "client_secret": "YOUR_SPOTIFY_CLIENT_SECRET"
+  }
+}
