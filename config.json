@@ -1,6 +1,6 @@
 {
-  "token": "YOUR_TOKEN",
-  "prefix": "YOUR_PREFIX",
+  "token": "git clone https://github.com/teamkronix/Kronix-Self-Bot.git",
+  "prefix": ".",
   "allowedIds": ["YOUR_DISCORD_ID"],
   "timeZone": "Asia/Kolkata",
   "showTime": true,
