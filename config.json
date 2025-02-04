@@ -1,5 +1,5 @@
 {
-  "token": "YOUR_TOKEN",
+  "token": "h",
   "prefix": "YOUR_PREFIX",
   "allowedIds": ["YOUR_DISCORD_ID"],
   "timeZone": "Asia/Kolkata",
